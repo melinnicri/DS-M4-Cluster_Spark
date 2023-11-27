@@ -1,4 +1,4 @@
-# Exercise: Movie Recommendation System.
+# Exercise 1: Movie Recommendation System.
 Amelia Herrera Briceño
 melinnicri@gmail.com
 
