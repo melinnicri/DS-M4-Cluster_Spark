@@ -1,3 +1,6 @@
+# Exercise: Movie Recommendation System.
+It describes step by step how to create a movie recommendation system using Python and Pandas. The exercise includes importing datasets, cleaning and analyzing data, creating new features, and visualizing data with Seaborn. The recommendation is made with correlation.
+
 # Apache Spark Standalone Cluster on Docker
 
 > The project was featured on an **[article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)** at **MongoDB** official tech blog! :scream:
