@@ -1,4 +1,7 @@
 # Exercise: Movie Recommendation System.
+Amelia Herrera Briceño
+melinnicri@gmail.com
+
 It describes step by step how to create a movie recommendation system using Python and Pandas. The exercise includes importing datasets, cleaning and analyzing data, creating new features, and visualizing data with Seaborn. The recommendation is made with correlation.
 [notebook file (Colab)](https://github.com/melinnicri/Movie_Recommendation_Sys/blob/main/Recomendacion.ipynb)
 
